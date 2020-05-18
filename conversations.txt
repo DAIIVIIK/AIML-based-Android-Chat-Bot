@@ -1,0 +1,328 @@
+user: hello
+chatterbot: Hi there!
+user: what is history
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
+user: "hello"
+chatterbot: What is it?
+user: "enroll into subjects"
+chatterbot: sorry,couldn't quite get that
+user: "enroll into subjects"
+chatterbot: Sure, enroll under: 1.Chittranjan Hota 2.Bhanu Murthy 3.Dipanjan
+user: "extra"
+chatterbot: hiiii from extra
+user: "extraasdf"
+chatterbot: try asking something else maybe?
+user: "enroll under dipanjan"
+chatterbot: Here are the courses under dipanjan"
+user: "what is history"
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
+user: "what is history"
+chatterbot: I don't understand
+user: "what is history"
+chatterbot: I don't understand
+user: "what is history"
+chatterbot: sorry,couldn't quite get that
+user: "what is history"
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
+user: "69 f years"
+chatterbot: sorry,couldn't quite get that
+user: "what is my job"
+chatterbot: try asking something else maybe?
+user: "what is my job"
+chatterbot: You work with computers.
+user: "suugest courses"
+chatterbot: Why do we drive on parkways and park on driveways?
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "asdfas"
+chatterbot: Who are you talking about?
+user: "asdfas"
+chatterbot: I've never heard of them before.
+user: "asdfas"
+chatterbot: What were we talking about again?
+user: "asdfas"
+chatterbot: Oh yeah, now I remember.
+user: "asdfas"
+chatterbot: Do you have any idea what I am talking about?
+user: "asdfas"
+chatterbot: Sure,  "asdfas"  sounds like a good topic.
+user: "asdfas"
+chatterbot: We were talking about "asdfas". But I did not get that.
+user: "asdfas"
+chatterbot: Can you speak any foreign languages?
+user: "asdfas"
+chatterbot: Tell me about your father.
+user: "asdfas"
+chatterbot: That remark was too complicated for me. We were talking about "asdfas".
+user: "asdfas"
+chatterbot: When do you think artificial intelligence will replace lawyers?
+user: "asdfas"
+chatterbot: I've never heard a response quite like that before.
+user: "suugest courses"
+chatterbot: If you could have any kind of robot what would it be?
+user: "enroll into subjects"
+chatterbot: Sure, enroll under: 1.Chittranjan Hota 2.Bhanu Murthy 3.Dipanjan
+user: "enroll under dipanjan"
+chatterbot: Here are the courses under dipanjan"
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "select machine learning"
+chatterbot: SELECTED machine learning"
+user: "hello"
+chatterbot: Hi there!
+user: "extra"
+chatterbot: hiiii from extra
+user: hello
+chatterbot: Hi there!
+user: 69 f years
+chatterbot: Only 69? You are quite mature. I don't know anyone named female. Tell me a little about your life in years.
+user: i dont know
+chatterbot: That is interesting.
+user: enroll into subjects
+chatterbot: Sure, enroll under: 1.Chittranjan Hota 2.Bhanu Murthy 3.Dipanjan
+user: dipanjan
+chatterbot: You are objective and sensible.
+user: enroll under dipanjan
+chatterbot: Here are the courses under dipanjan
+user: extra
+chatterbot: hiiii from extra
+user: extra
+chatterbot: hiiii from extra
+user: hello
+chatterbot: Hi there!
+user: enroll under dipanjan
+chatterbot: Here are the courses under computer networks  operating systems  advanced networking
+user: enroll under dipanjan
+chatterbot: Here are the courses under computer networks  operating systems  advanced networking
+user: enroll under Chittaranjan Hota
+chatterbot: Here are the courses under
+user: enroll under chittaranjan hota
+chatterbot: Here are the courses under
+user: enroll under chittranjan hota
+chatterbot: Here are the courses under
+user: enroll under dipanjan
+chatterbot: Here are the courses under computer networks  operating systems  advanced networking
+user: enroll under chittranjan hota
+chatterbot: Here are the courses under chittranjan hota : Artificial Intelligence  C programming  OOP
+user: select OOP
+chatterbot: SELECTED OOP
+user: "extra"
+chatterbot: 
+user: "extra"
+chatterbot: 
+user: "hi"
+chatterbot: Hi there!
+user: "what is histroy"
+chatterbot: That's a good question.
+user: "what is history"
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
+user: "asdf"
+chatterbot: 16 years. My gender is .
+user: "asdf"
+chatterbot: I was activated in 1995. My gender is . , .
+user: "asdf"
+chatterbot: 16 years. I am a  robot.
+user: "asdf"
+chatterbot: I was activated in 1995. I am a  robot.
+user: "asdf"
+chatterbot: I was activated in 1995. I am .
+user: "asdf"
+chatterbot: 16 years. I am .
+user: "asdf"
+chatterbot: I was activated in 1995. My gender is .
+user: "asdf"
+chatterbot: 16 years. I am .
+user: "asdf"
+chatterbot: 16 years. I am . , .
+user: "asdf"
+chatterbot: 16 years. My gender is .
+user: "asdf"
+chatterbot: 16 years. I am .
+user: "asdf"
+chatterbot: I was activated in 1995. I am .
+user: "asdf"
+chatterbot: 16 years. My gender is .
+user: "asdf"
+chatterbot: I was activated in 1995. My gender is .
+user: "asdf"
+chatterbot: I was activated in 1995. My gender is . , .
+user: "asdasdfdff"
+chatterbot: Can you tell me any gossip?
+user: "asdasdfdff"
+chatterbot: I really enjoy speaking with you and look forward to chatting again.
+user: "asdasdfdff"
+chatterbot: I am very logical and rational.
+user: "asdasdfdff"
+chatterbot: What you said was too complicated for me.
+user: "asdasdfdff"
+chatterbot: Are you a man or woman?
+user: "asdasdfdff"
+chatterbot: Do you have any kids?
+user: "asdasdfdff"
+chatterbot: How did you hear about Nameless?
+user: "asdasdfdff"
+chatterbot: Why, specifically?
+user: "asdasdfdff"
+chatterbot: You have a way of putting others at ease.
+user: "asdasdfdff"
+chatterbot: Do you like to "go with the flow"?
+user: "asdasdfdff"
+chatterbot: Quite honestly, I wouldn't worry myself about that.
+user: "asdasdfdff"
+chatterbot: Do you prefer books or TV?
+user: "asdasdfdff"
+chatterbot: Do you have any kids?
+user: "asdasdfdff"
+chatterbot: That remark was too complicated for me. We were talking about "asdasdfdff".
+user: "asdasdfdff"
+chatterbot: You are objective and sensible.
+user: "asdasdfdff"
+chatterbot: Try putting that in a more specific context.
+user: "enroll into subjects"
+chatterbot: Sure, enroll under: 1.Chittranjan Hota 2.Bhanu Murthy 3.Dipanjan
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "extra"
+chatterbot: 
+user: "extra"
+chatterbot: 
+user: "extra"
+chatterbot: 
+user: "search jobs in php"
+chatterbot: let me search php"
+user: "search jobs in php"
+chatterbot: Try searching the Wikipedia.
+user: "search jobs in php"
+chatterbot: There might be more than one.
+user: "select jobs in php"
+chatterbot: Here are the jobs in php" field : job Title: Wordpress Developer  ****************************************  job Title: Wordpress Developer  ****************************************  job Title: Web Developer  ****************************************  job Title: Software Architect  ****************************************  job Title: Sr PHP Developer (Full-stack)  ****************************************  job Title: Junior Full-Stack Developer (full-time)  ****************************************  job Title: Lead front-end engineer  ****************************************  job Title: Sr. PHP/Drupal Developer  ****************************************  job Title: Senior PHP/Laravel Developer: Your Dream Work Environment  ****************************************  job Title: DevOps Engineer  ****************************************  job Title: Senior Frontend Engineer  ****************************************  job Title: Technology Solutions Developer  ****************************************  job Title: Front-end Jedi  ****************************************  job Title: Digital Developer  ****************************************  job Title: FREELANCE PHP DEVELOPER  ****************************************  job Title: Lead Full Stack Developer  ****************************************  job Title: seeking webmaster assistance with frontend and backend.  ****************************************  job Title: Senior Mobile Developer | iOS  ****************************************  job Title: PHP and/or JS Software Developer   ****************************************  job Title: Client-facing Software Engineer  ****************************************  job Title: Senior Python Software Engineer   ****************************************  job Title: Frontend Software Engineer   ****************************************  job Title: Full Stack Developer  ****************************************  job Title: Senior .NET Developer  ****************************************  job Title: Web Developer  ****************************************
+user: "select jobs in perl"
+chatterbot: Here are the jobs in perl" field :
+user: "select jobs in java"
+chatterbot: Here are the jobs in java" field : job Title: Data Engineer (w/m/d)  ****************************************
+user: "select jobs in java"
+chatterbot: Here are the jobs in java" field : job Title: Data Engineer (w/m/d)  ****************************************
+user: "select jobs in java"
+chatterbot: Here are the jobs in java" field : job Title: Data Engineer (w/m/d)  ****************************************
+user: select jobs in java
+chatterbot: Here are the jobs in java field : job Title: Data Engineer (w/m/d)  ****************************************
+user: select jobs in java
+chatterbot: Here are the jobs in java field : job Title: Data Engineer (w/m/d)  ****************************************
+user: hii
+chatterbot: What is your middle name?
+user: hii
+chatterbot: Your middle name is hii.
+user: hi
+chatterbot: Hi there!
+user: hi
+chatterbot: How are you?
+user: hi
+chatterbot: Hi there!
+user: hi
+chatterbot: How are you?
+user: hi
+chatterbot: Hi there!
+user: suggest courses
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: select jobs in java
+chatterbot: Here are the jobs in java field : job Title: Data Engineer (w/m/d)  ****************************************
+user: select jobs in java
+chatterbot: Here are the jobs in java field : job Title: Data Engineer (w/m/d)  ****************************************
+user: hi
+chatterbot: Hi there!
+user: hi
+chatterbot: How are you?
+user: hi
+chatterbot: Hi there!
+user: hi
+chatterbot: How are you?
+user: hi
+chatterbot: Hi there!
+user: hi
+chatterbot: How are you?
+user: suggest courses
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: enroll into subjects
+chatterbot: Sure, enroll under: 1.Chittranjan Hota 2.Bhanu Murthy 3.Dipanjan
+user: enroll under chittaranjan hota
+chatterbot: Here are the courses under chittaranjan hota : Artificial Intelligence  C programming  OOP
+user: select oop
+chatterbot: SELECTED oop
+user: hi
+chatterbot: Hi there!
+user: suggest courses
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "hello"
+chatterbot: Hi there!
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: hi
+chatterbot: Hi there!
+user: suggest courses
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "suggest courses"
+chatterbot: SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS 1.Machine learning 2.Ethical Hacking 3.Mern Stack Development 4.Data Structures and Algorithms 5.Artificial Intelligence 6.Blockchain 7.DevOps 8.Iot 9.Cloud Computing
+user: "asd"
+chatterbot: Do you want to hear a joke?
+user: "asd"
+chatterbot: I am very logical and rational.
+user: "asd"
+chatterbot: I always try my best.
+user: "what is history"
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
+user: "what is history"
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
+user: "what is history"
+chatterbot: History: the course of political, economic and military events over time, from the Dawn of Man to the Age of AI.
