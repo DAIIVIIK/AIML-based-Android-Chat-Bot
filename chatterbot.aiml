@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+<!-- basic_chat.aiml -->
+    <category><pattern>ENROLL INTO SUBJECTS</pattern>
+    <template>Sure, enroll under:
+    1.Chittranjan Hota
+    2.Bhanu Murthy
+    3.Dipanjan
+    </template>
+    </category>
+    <category><pattern>ENROLL UNDER *</pattern>
+    <template>Here are the courses under <star/> : <system>python extra.py <star/></system></template>
+    </category>
+
+    <category><pattern>SUGGEST COURSES</pattern>
+    <template>SURE, LET ME SUGGEST FEW BASED ON RECENT TRENDS
+
+    1.Machine learning 
+
+    2.Ethical Hacking
+
+    3.Mern Stack Development
+
+    4.Data Structures and Algorithms
+
+    5.Artificial Intelligence
+
+    6.Blockchain
+
+    7.DevOps
+
+    8.Iot
+    
+    9.Cloud Computing
+    </template>
+    </category>
+    <category><pattern>SELECT *</pattern>
+    <template>SELECTED <star/></template>
+    </category>
+    <category><pattern>SELECT JOBS IN *</pattern>
+    <template>Here are the jobs in <star/> field : <system>python jobs.py <star/></system></template>
+    </category>
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>
+            <random>
+            <li>HELLO SIR</li> 
+            <li>How ARE YOU?</li>
+            <li>What is it?</li>
+        </random>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            <random>
+            <li>HELLO SIR</li> 
+            <li>How ARE YOU?</li>
+            <li>What is it?</li>
+        </random>
+        </template>
+    </category>
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            <srai>HELLO <star/></srai>
+        </template>
+    </category>
+    
+    <category>
+        <pattern>HI *</pattern>
+        <template>
+            <srai>HELLO <star/></srai>
+        </template>
+    </category>
+    <category>
+        <pattern>WHO ARE YOU</pattern>
+        <template>
+            I'm a bot!
+        </template>
+    </category>
+    <category>
+        <pattern>MY NAME IS *</pattern>
+        <template>
+            hello <star index="1"/>, good to hear from you
+        </template>
+    </category>
+    <category>
+        <pattern>*</pattern>
+        <template>
+            <random>
+            <li>sorry,couldn't quite get that</li> 
+            <li>try asking something else maybe?</li>
+            <li>I don't understand</li>
+        </random>
+        </template>
+    </category>
+    
+    
+</aiml>
